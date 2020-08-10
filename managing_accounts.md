@@ -1,4 +1,4 @@
-# Managing Usernames and Passwords
+# Managing Accounts
 
 ## Usernames
 
