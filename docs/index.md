@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/antonison-consulting/manual_of_operations/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
@@ -43,4 +42,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 layout: home
 ---
->>>>>>> Initial work to static build a site using jekyl
