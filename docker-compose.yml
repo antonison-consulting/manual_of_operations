@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  site:
+    image: jekyll/jekyll:3.8.6
+    command: jekyll serve --livereload --verbose
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/srv/jekyll
+      - ./vendor/bundle:/usr/local/bundle
+
+## Derived from https://dev.to/michael/compile-a-jekyll-project-without-installing-jekyll-or-ruby-by-using-docker-4184
