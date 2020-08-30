@@ -17,8 +17,8 @@ title: Antonison Consulting Manual of Operations
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Alex will write something amazing right here
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/manual_of_operations"
+url: https://antonison-consulting.github.io
 twitter_username: jekyllrb
 github_username:  jekyll
 
