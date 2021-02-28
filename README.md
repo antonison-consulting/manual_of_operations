@@ -2,9 +2,7 @@
 
 This repository contains all procedures and guidlines for how projects, products, and consulting engagements are managed at Antonison Consulting Group.
 
-<<<<<<< HEAD
 Visit https://antonison-consulting.github.io/manual_of_operations/.
-=======
 ## Local Development - Running Jekyll commands
 
 Use the following command to run gem/jekyll/bundle commands so that you can vaoid installing ruby and jekyll in your local environment
@@ -16,4 +14,3 @@ The docker-compose.yml is configured to allow you to run a container that serves
 it will reload when it detects changes locally).
 
 `docker-compose up`
->>>>>>> Updated the documents
