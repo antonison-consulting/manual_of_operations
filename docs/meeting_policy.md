@@ -10,4 +10,4 @@ Output from a meeting
 
 * A document that captures minutes
 * Important decisions that were made
-* Any action items from the meeting should result in Trello cards being created
+* Any action items from the meeting should result in GitHub project cards being created in the appropriate repository.
