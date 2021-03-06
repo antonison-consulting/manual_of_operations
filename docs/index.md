@@ -8,7 +8,7 @@ This manual of operations are guidelines in how Antonison Consulting Group will 
   * Product decisions and documentation
   * Technical decisions and documentation
   * General communication
-* Meeting frequency and guidelines
+* [Meeting frequency and guidelines](meeting_policy.md)
 * Security measures to be taken to ensure a secure development environment
-  * Managing accounts
+  * [Managing accounts](managing_accounts.md)
   * Managing compute and storage resources
