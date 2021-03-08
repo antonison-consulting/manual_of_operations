@@ -13,7 +13,6 @@ This manual of operations are guidelines in how Antonison Consulting Group will 
 * [Meeting frequency and guidelines](meeting_policy.md)
 * Security measures to be taken to ensure a secure development environment
   * [Managing accounts](managing_accounts.md)
-  * [Managing compute and storage resources](compute_storage_management.md)
 
 ## Project Membership
 
