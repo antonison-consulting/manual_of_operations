@@ -7,8 +7,8 @@
     * An example of this for Alexander Antonison is `aantonison`.
   * In the event a person has a hyphenated last name, only the first part of the hyphenated name will be used for shorter usernames.
     * An example of this is Angelina Uno-Antonison will be `auno`
-* Google Cloud
-  * Google Cloud accounts will consist of a person's first name or abbreviated short name such as `alex@antonison-cg.com`.
+* Amazon Web Services (AWS)
+  * AWS accounts will consist of a person's first initial and last name.
 
 ## Passwords
 
